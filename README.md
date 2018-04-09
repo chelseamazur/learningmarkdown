@@ -1,2 +1,2 @@
 # learningmarkdown
-I need to learn markdown and I am learning it using Github and Tool lyrics.   /,,/
+I am learning Markdown by marking up lines to my favourite songs. 
